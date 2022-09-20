@@ -149,3 +149,33 @@ int main()
 } 
 
 ```
+
+Output:
+
+```
+
+Enter Size of Array :- 20
+2 2 1 1 2 1 0 0 1 2 2 2 1 0 1 2 1 2 0 0
+Z
+
+Element 0 occurs 5 times
+
+Element 1 occurs 7 times
+
+Element 2 occurs 8 times
+
+--------------------------------
+
+Enter Size of Array :- 18
+2 2 1 1 2 1 0 0 1 2 2 2 1 0 1 2 1 2
+Z
+
+Element 0 occurs 3 times
+
+Element 1 occurs 7 times
+
+Element 2 occurs 8 times
+
+--------------------------------
+
+```
