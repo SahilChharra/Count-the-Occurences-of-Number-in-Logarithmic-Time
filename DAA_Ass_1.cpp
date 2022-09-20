@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int binarySearch(int nums[], int n, int target, int searchFirst)
+int Occurence(int nums[], int n, int target, int searchFirst)
 {
     int low = 0;
 	int high = n - 1;
