@@ -1,4 +1,4 @@
-# DAA-Assignment-1
+# Count the Occurences in (logn) Time
 
 Name:- Sahil.R.Chharra
 Roll no:- A-61
